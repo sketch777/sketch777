@@ -1,6 +1,4 @@
-### Hi there 👋
 
-# sketch77
 
 <h1 align="center">Hi 👋, I'm Mark Anthony Caneba</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
